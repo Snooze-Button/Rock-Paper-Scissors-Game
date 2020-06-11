@@ -1,0 +1,13 @@
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.exe
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.deps.json
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.runtimeconfig.json
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.runtimeconfig.dev.json
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.dll
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\bin\Debug\netcoreapp3.1\Rock Paper Scissors.pdb
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.csprojAssemblyReference.cache
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.csproj.CoreCompileInputs.cache
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.AssemblyInfoInputs.cache
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.AssemblyInfo.cs
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.dll
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.pdb
+C:\Users\Ar605\Desktop\Year_1_Review\Rock Paper Scissors\Rock Paper Scissors\obj\Debug\netcoreapp3.1\Rock Paper Scissors.genruntimeconfig.cache
